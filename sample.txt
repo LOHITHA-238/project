@@ -3,3 +3,6 @@ Its sample text file for learning Git
 
 
 Editing file and checking 
+
+
+Making changes as to create new branch
