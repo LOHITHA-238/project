@@ -1,1 +1,5 @@
 Its sample text file for learning Git
+
+
+
+Editing file and checking 
